@@ -6,3 +6,59 @@ my_env/
 
 # Ignore all PNG images (if not needed)
 *.png
+
+# -------------------------------
+# 🚀 General Python Git Ignore
+# -------------------------------
+
+# Ignore macOS system files
+.DS_Store
+
+# Ignore Windows system files
+Thumbs.db
+
+# Ignore Python bytecode files
+__pycache__/
+*.pyc
+*.pyo
+
+# Ignore virtual environment folders
+venv/
+my_env/
+.env
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# -------------------------------
+# 🎵 Music Genre Classification Project
+# -------------------------------
+
+# Ignore dataset folder (DO NOT commit raw audio files)
+dataset/
+
+# Ignore extracted features if you regenerate them often
+features.csv
+
+# Ignore machine learning models (trained models)
+models/
+*.pkl  # Scikit-learn models
+*.h5   # TensorFlow/Keras models
+
+# Ignore logs and cache files
+logs/
+*.log
+
+# Ignore images if not required
+*.png
+
+# -------------------------------
+# 🛠 Development-Specific Ignore
+# -------------------------------
+
+# Ignore VS Code and JetBrains (PyCharm) project files
+.vscode/
+.idea/
+
+# Ignore all project-specific configurations
+config.json
