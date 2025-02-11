@@ -15,6 +15,12 @@ This project focuses on **classifying music genres** using **Machine Learning / 
 - **NumPy & Pandas** (Data Processing)
 - **Matplotlib & Seaborn** (Visualization)
 
+## 📚 References & Inspirations
+- GTZAN Dataset: [http://marsyas.info/downloads/datasets.html](http://marsyas.info/downloads/datasets.html)
+- Feature Extraction with Librosa: [https://librosa.org/doc/main/feature.html](https://librosa.org/doc/main/feature.html)
+- Music Classification Research Paper: [https://arxiv.org/pdf/1612.01017.pdf](https://arxiv.org/pdf/1612.01017.pdf)
+- Scikit-learn Model Training: [https://scikit-learn.org/stable/supervised_learning.html](https://scikit-learn.org/stable/supervised_learning.html)
+
 
 ## 🎯 How to Use
 ### **1️⃣ Install Dependencies**
