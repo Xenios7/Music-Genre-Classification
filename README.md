@@ -22,15 +22,9 @@ This project focuses on **classifying music genres** using **Machine Learning / 
 pip install -r requirements.txt
 
 2️⃣ Train the Model
-bash
-Copy
-Edit
 python train.py
 
 3️⃣ Classify a Song
-bash
-Copy
-Edit
 python classify.py path/to/music.wav
 
 📊 Dataset
