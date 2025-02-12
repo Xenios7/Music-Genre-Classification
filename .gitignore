@@ -54,3 +54,4 @@ config.json
 
 .DS_Store
 large_file.wav
+.wav
