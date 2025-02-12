@@ -1,4 +1,4 @@
-# 🎵 Music Genre Classification
+# 🎵 Music Genre Classification (ML project)
 
 This project focuses on **classifying music genres** using **Machine Learning / Deep Learning** techniques. It analyzes audio features to predict the genre of a given music track.
 
