@@ -31,7 +31,7 @@ pip install -r requirements.txt
 python train.py
 
 3️⃣ Classify a Song
-python classify.py path/to/music.wav
+python predict.py path/to/music.wav
 
 📊 Dataset
 The project uses a dataset containing labeled music tracks from various genres. You can use:

@@ -32,7 +32,7 @@ def extract_features(file_path):
 
 
 def main():
-    file_path = "/Users/xenios/Documents/MusicGenreClassification/musicTest/bonJovi.wav"
+    file_path = "/Users/xenios/Documents/MusicGenreClassification/musicTest/bonJoviMusic.wav"
 
     features = extract_features(file_path)
     if  features is not None:
