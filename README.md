@@ -34,11 +34,11 @@ python train.py
 python predict.py path/to/music.wav
 
 📊 Dataset
-The project uses a dataset containing labeled music tracks from various genres. You can use:
+The project uses a dataset containing labeled music tracks from various genres. I used:
 
 GTZAN Dataset (Public Dataset)
 Your own dataset (MP3/WAV files)
-📈 Future Improvements
+📈 Future Improvements (May add in the future)
 Improve model accuracy with CNN/RNN architectures.
 Add real-time classification from microphone input.
 Deploy as a Web API.
